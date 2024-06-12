@@ -19,8 +19,8 @@ https://alurageek-api.vercel.app/
 
 ```json
 {
- "product": [
-        {
+ "productos": [
+    {
       "id": "1",
       "nombre": "Alfajores",
       "imagen": "./img/alfajores.jpg",
@@ -30,7 +30,8 @@ https://alurageek-api.vercel.app/
       "id": "2",
       "nombre": "Bombas",
       "imagen": "./img/bombas.jpg",
-      "precio": "$ 60
+      "precio": "$ 60,00"
+    }
  ]
 }
 ```
