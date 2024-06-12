@@ -21,21 +21,16 @@ https://alurageek-api.vercel.app/
 {
  "product": [
         {
-            "img": "https://www.claroshop.com/c/star-wars-day/img/categorias/TAZAS_CATEGORIAS_STAR_WARS.png",
-            "name": "Trooper mug",
-            "price": "$60.00",
-            "description": "Trooper helmet mug",
-            "category": "starwars",
-            "id": 1
-        },
-        {
-            "img": "https://cdn1.coppel.com/images/catalog/mkp/1773/5000/17733590-1.jpg",
-            "name": "Vader Funko",
-            "price": "$60.00",
-            "description": "Collectible Funko of Darth Vader",
-            "category": "starwars",
-            "id": 2
-        }
+      "id": "1",
+      "nombre": "Alfajores",
+      "imagen": "./img/alfajores.jpg",
+      "precio": "$ 60,00"
+    },
+    {
+      "id": "2",
+      "nombre": "Bombas",
+      "imagen": "./img/bombas.jpg",
+      "precio": "$ 60
  ]
 }
 ```
